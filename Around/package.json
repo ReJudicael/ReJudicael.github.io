@@ -36,7 +36,7 @@
     "npmlog": "^7.0.1",
     "postcss": "^8.4.31",
     "prettier": "^3.0.3",
-    "rollup": "^4.4.0",
+    "rollup": "^4.34.5",
     "sass": "^1.69.5",
     "stylelint": "^15.11.0",
     "stylelint-config-twbs-bootstrap": "^11.0.1",
